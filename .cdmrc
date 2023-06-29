@@ -1,0 +1,2 @@
+tabs: ['contracts/Event.sol']
+terminals: ['yarn install']
